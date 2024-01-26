@@ -1,20 +1,18 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Active Directory Home Lab</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+In this tutorial, I guided the process of establishing a comprehensive Active Directory lab on a personal computer using Oracle VirtualBox. Initially, I covered the installation of VirtualBox and acquiring ISO files for Windows 10 and Server 2019. The primary virtual machine, designated as the domain controller, was configured with two network adapters—one for internet access and the other for the VirtualBox private network. After installing Server 2019 and configuring IP addresses, I set up both DNS and Active Directory on the domain controller. Routing was then established to enable private network clients to access the internet through the domain controller. Following this, I configured DHCP on the domain controller to automate IP address assignments. A PowerShell script was executed to generate a thousand users in Active Directory. Another virtual machine, named "client1," was created and connected to the private VirtualBox network. Windows 10 was installed on this client machine, which was subsequently joined to the domain. The tutorial concluded with logging into the client machine using one of the domain accounts. Throughout the process, I applied skills in VirtualBox usage, Windows Server 2019 installation, DNS and Active Directory configuration, networking setup, and PowerShell scripting.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Applications and Enviornments Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
+- <b>Oracle VirtualBox</b> 
+- <b>Windows 10</b>
+- <b>Windows Server 2019</b> 
+- <b>PowerShell</b>
 
 <h2>Program walk-through:</h2>
 
