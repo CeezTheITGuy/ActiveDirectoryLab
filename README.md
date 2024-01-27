@@ -18,19 +18,19 @@ In this tutorial, I guided the process of establishing a comprehensive Active Di
 
 <p align="center">
 VirtualBox Installation: <br/>
-<img src="https://imgur.com/a/bFi6Ywo" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/e5GawOn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Server 2019 ISO Downloads:  <br/>
-<img src="https://i.imgur.com/JvnCjKE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AAF3P6J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Windows 10 ISO Downloads:  <br/>
-<img src="https://i.imgur.com/cyIB4tr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PPgj5np.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Domain Controller Virtual Machine Creation:  <br/>
-<img src="https://i.imgur.com/4SsCvtg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ToahzTh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 DNS and Active Directory Setup: <br/>
@@ -50,7 +50,7 @@ PowerShell Script Execution:  <br/>
 <br />
 <br />
 Client Virtual Machine Creation:  <br/>
-<img src="https://i.imgur.com/dAsl8Cb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vNq9YF9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Joining Client to the Domain:  <br/>
