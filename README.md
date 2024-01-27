@@ -18,11 +18,15 @@ In this tutorial, I guided the process of establishing a comprehensive Active Di
 
 <p align="center">
 VirtualBox Installation: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xljVAJR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Server 2019 and Windows 10 ISO Downloads:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Server 2019 ISO Downloads:  <br/>
+<img src="https://i.imgur.com/f7coih6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Windows 10 ISO Downloads:  <br/>
+<img src="https://i.imgur.com/cyIB4tr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Domain Controller Virtual Machine Creation:  <br/>
