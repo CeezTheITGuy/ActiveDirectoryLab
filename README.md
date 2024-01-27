@@ -29,24 +29,20 @@ Windows 10 ISO Downloads:  <br/>
 <img src="https://i.imgur.com/PPgj5np.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Domain Controller Virtual Machine Creation:  <br/>
-<img src="https://i.imgur.com/ToahzTh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating Internet NIC and Assigning IP:  <br/>
+<img src="https://i.imgur.com/1fMsOxl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-DNS and Active Directory Setup: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Routing Configuration:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Installing DNS, DHCP, Remote Access and Active Directory:  <br/>
+<img src="https://i.imgur.com/C1ZQ9fX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 DHCP Configuration:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XhuSmD6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 PowerShell Script Execution:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HdvnHVh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Client Virtual Machine Creation:  <br/>
@@ -54,12 +50,9 @@ Client Virtual Machine Creation:  <br/>
 <br />
 <br />
 Joining Client to the Domain:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Y6vJnqJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Logging into Client Using Created User:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <!--
  ```diff
