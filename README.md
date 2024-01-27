@@ -29,8 +29,8 @@ Windows 10 ISO Downloads:  <br/>
 <img src="https://i.imgur.com/PPgj5np.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating Internet NIC and Assigning IP:  <br/>
-<img src="https://i.imgur.com/1fMsOxl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating Internal NIC and Assigning IP:  <br/>
+<img src="https://i.imgur.com/C2tQmav.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Installing DNS, DHCP, Remote Access and Active Directory:  <br/>
@@ -49,7 +49,7 @@ Client Virtual Machine Creation:  <br/>
 <img src="https://i.imgur.com/vNq9YF9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Joining Client to the Domain:  <br/>
+Pinging the Domain from the Client:  <br/>
 <img src="https://i.imgur.com/Y6vJnqJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
