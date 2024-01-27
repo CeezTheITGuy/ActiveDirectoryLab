@@ -18,7 +18,7 @@ In this tutorial, I guided the process of establishing a comprehensive Active Di
 
 <p align="center">
 VirtualBox Installation: <br/>
-<img src="https://i.imgur.com/xljVAJR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/bFi6Ywo" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Server 2019 ISO Downloads:  <br/>
