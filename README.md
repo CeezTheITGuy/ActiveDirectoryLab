@@ -22,7 +22,7 @@ VirtualBox Installation: <br/>
 <br />
 <br />
 Server 2019 ISO Downloads:  <br/>
-<img src="https://i.imgur.com/f7coih6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JvnCjKE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Windows 10 ISO Downloads:  <br/>
@@ -30,7 +30,7 @@ Windows 10 ISO Downloads:  <br/>
 <br />
 <br />
 Domain Controller Virtual Machine Creation:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4SsCvtg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 DNS and Active Directory Setup: <br/>
@@ -50,7 +50,7 @@ PowerShell Script Execution:  <br/>
 <br />
 <br />
 Client Virtual Machine Creation:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dAsl8Cb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Joining Client to the Domain:  <br/>
