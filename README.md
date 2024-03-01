@@ -17,40 +17,77 @@ In this tutorial, I established a domain controller featuring Active Directory, 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-VirtualBox Installation: <br/>
-<img src="https://i.imgur.com/e5GawOn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Domain Controller Creation: <br/>
+<img src="https://i.imgur.com/MugCxS4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Server 2019 ISO Downloads:  <br/>
-<img src="https://i.imgur.com/AAF3P6J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Differentiation between Internal and External Internets:  <br/>
+<img src="https://i.imgur.com/eJHxZO0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Windows 10 ISO Downloads:  <br/>
-<img src="https://i.imgur.com/PPgj5np.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+IP Assignment:  <br/>
+<img src="https://i.imgur.com/3YlIchJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating Internal NIC and Assigning IP:  <br/>
-<img src="https://i.imgur.com/C2tQmav.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Active Directory Installation:  <br/>
+<img src="https://i.imgur.com/UhwJgHS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Installing DNS, DHCP, Remote Access and Active Directory:  <br/>
-<img src="https://i.imgur.com/C1ZQ9fX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Domain Creation:  <br/>
+<img src="https://i.imgur.com/V2dFqWa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-DHCP Configuration:  <br/>
-<img src="https://i.imgur.com/XhuSmD6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Admin User Created:  <br/>
+<img src="https://i.imgur.com/pEJMUIU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-PowerShell Script Execution:  <br/>
-<img src="https://i.imgur.com/HdvnHVh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+RAS Installation:  <br/>
+<img src="https://i.imgur.com/QVSxrxw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Client Virtual Machine Creation:  <br/>
-<img src="https://i.imgur.com/vNq9YF9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+NAT Configuration:  <br/>
+<img src="https://i.imgur.com/nxE3wjy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Pinging the Domain from the Client:  <br/>
-<img src="https://i.imgur.com/Y6vJnqJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+DHCP Installation:  <br/>
+<img src="https://i.imgur.com/WcT0vCz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+IP Address Range:  <br/>
+<img src="https://i.imgur.com/xzfhOTl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Scope Creation:  <br/>
+<img src="https://i.imgur.com/CvufFLg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Powershell Script for Fake Users:  <br/>
+<img src="https://i.imgur.com/9N82vIM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Client VM Created and Named:  <br/>
+<img src="https://i.imgur.com/zigGe8Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+IP Config Test:  <br/>
+<img src="https://i.imgur.com/QoaEuya.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Internet Connection Test:  <br/>
+<img src="https://i.imgur.com/DW9w1IW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Lease Given to Client:  <br/>
+<img src="https://i.imgur.com/39991Yc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Client Joins Domain:  <br/>
+<img src="https://i.imgur.com/Nd0fnwk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Logging in with Created User:  <br/>
+<img src="https://i.imgur.com/bhzfZZc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/61mdT4b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
