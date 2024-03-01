@@ -1,6 +1,6 @@
 <h1>Active Directory Home Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration](https://www.youtube.com/channel/UCvch0qtfn8YtxqJXJdSAHAA)
 
 <h2>Description</h2>
 In this tutorial, I established a domain controller featuring Active Directory, equipped with two network adapters—one for external internet access and the other for an internal network. Ensured clarity by adjusting default IPs. Assigned internal network IP addresses while allowing the external network to obtain IPs automatically from the home network. Installed Active Directory, created a domain, and established an admin user for management. Configured RAS and NAT to facilitate internet access for the internal network. Implemented DHCP on the server for automated IP assignments, executed a PowerShell script to generate users in Active Directory, and successfully created and connected a client VM to the domain. Checked and verified IP settings, internet connectivity, and user login for a comprehensive evaluation. Skillfully managed tasks such as adapter configuration, IP adjustments, Active Directory setup, RAS and NAT configuration, DHCP implementation, and PowerShell scripting.
